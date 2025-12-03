@@ -1,6 +1,4 @@
--- ======================================
--- DATES QUERIES for Logistics SQL Project
--- ======================================
+-- DATE QUERIES 
 
 -- 1. Shipments by month of pickup
 SELECT 
