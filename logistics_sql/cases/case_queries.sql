@@ -1,6 +1,4 @@
--- ======================================
--- CASE WHEN QUERIES for Logistics Project
--- ======================================
+-- CASE QUERIES 
 
 -- 1. Categorize shipments by weight
 SELECT 
